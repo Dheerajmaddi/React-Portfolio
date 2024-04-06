@@ -1,0 +1,83 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "Proficient in HTML, CSS, JavaScript, and React for front-end development."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "Experienced in backend technologies like Node.js, Spring Boot, Java, Python."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX Design",
+            "description": "Utilize tools like Adobe XD, Figma, and Sketch for intuitive and visually appealing user interfaces."
+        },{
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Databses",
+            "description": "Skilled in PostgreSQL, MongoDB, and MySQL for effective database administration and management."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "img": "./img/placeholder-image.png",
+            "title": "Suburban Medical Group Web Application",
+            "description": "ASP.NET Core MVC-based Suburban Medical Group portal system, integrating patient and admin areas, physician management, clinic listings, user registration, and login with ASP.NET Identity.",
+            "link": "View in GitHub"
+        },
+        {
+            "id": "2",
+            "img": "./img/placeholder-image-1.png",
+            "title": "Notes Keeper",
+            "description": "Employed modern UX principles to ensure a seamless user experience, enhancing productivity and organization for individuals. Leveraged agile development methodologies to iterate quickly and incorporate user feedback",
+            "link": "View in GitHub"
+        },
+        {
+            "id": "3",
+            "img": "./img/placeholder-image-2.png",
+            "title": "SMART Attendance GUI Application",
+            "description": "The Smart Attendance GUI App streamlines attendance with face recognition, user-friendly navigation, and features like student registration and instructor management, boosting efficiency.",
+            "link": "View in GitHub"
+        }
+    ],
+
+    "testimonials": [
+        {
+            "id": "1",
+            "count": "5",
+            "img": "./img/avatar-image.png",
+            "title": "Ahuse",
+            "description": "Dheeraj is a game-changer! his expertise in full-stack development brought our vision to life, exceeding expectations!",
+            "author_name": "Daniel Russel",            
+            "author_designation": "Starbucks"
+        },
+        {
+            "id": "2",
+            "count": "5",
+            "img": "./img/avatar-image-1.png",
+            "title": "Ahuse",
+            "description": "Highly recommend Dheeraj! his professionalism and dedication to quality solutions are unmatched. Awesome!!!",
+            "author_name": "Chris Watson",            
+            "author_designation": "Nike"
+        },
+        {
+            "id": "3",
+            "count": "5",
+            "img": "./img/avatar-image-2.png",
+            "title": "Ahuse",
+            "description": "Choosing Dheeraj was the best decision! he understood our needs and delivered an impressive, user-friendly application.",
+            "author_name": "Ryan Munroe",            
+            "author_designation": "H & M"
+        }
+    ]
+
+
+
+}
